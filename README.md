@@ -54,3 +54,27 @@ Total rows: 14776616
 | vendor_id          |               CMT                |
 +--------------------+----------------------------------+
  ```
+
+### Question 4). What MySQL data types / len would you need to store each of the fields?
+### int(xx), varchar(xx),date,datetime,bool, decimal(m,d)
+
+ ```
+ +--------------------+--------------+
+|    Column Name     |  Data Type   |
++--------------------+--------------+
+|     medallion      | VARCHAR(32)  |
+|    hack_license    | VARCHAR(32)  |
+|     vendor_id      |  VARCHAR(3)  |
+|     rate_code      |   SMALLINT   |
+| store_and_fwd_flag |   BOOLEAN    |
+|  pickup_datetime   |   DATETIME   |
+|  dropoff_datetime  |   DATETIME   |
+|  passenger_count   |   SMALLINT   |
+| trip_time_in_secs  |     INT      |
+|   trip_distance    | DECIMAL(4,2) |
+|  pickup_longitude  | DECIMAL(9,6) |
+|  pickup_latitude   | DECIMAL(8,6) |
+| dropoff_longitude  | DECIMAL(9,6) |
+|  dropoff_latitude  | DECIMAL(8,6) |
++--------------------+--------------+
+ ```
