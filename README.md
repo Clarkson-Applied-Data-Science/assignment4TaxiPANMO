@@ -92,7 +92,48 @@ Geographic range of the data (min longitude, min latitude) - (max longitude, max
 
  ```
 The average trip distance is 19.48 km
+```
+![alt text](https://github.com/Clarkson-Applied-Data-Science/assignment4TaxiPANMO/blob/main/images/1.png)
 
-![alt text](C:\Users\DANIEL\Documents\GitHub\assignment4TaxiPANMO\images\1.png)
+
+### Question 7). What are the distinct values for each field? (If applicable)
 
  ```
+ +--------------------+------------------------+
+|       Field        | Sum of Distinct Values |
++--------------------+------------------------+
+|     medallion      |         13426          |
+|    hack_license    |         32224          |
+|     vendor_id      |           2            |
+|     rate_code      |           14           |
+| store_and_fwd_flag |           3            |
+|  pickup_datetime   |        2303465         |
+|  dropoff_datetime  |        2305816         |
+|  passenger_count   |           10           |
+| trip_time_in_secs  |          6594          |
+|   trip_distance    |          4368          |
+|  pickup_longitude  |         40442          |
+|  pickup_latitude   |         64511          |
+| dropoff_longitude  |         56250          |
+|  dropoff_latitude  |         88767          |
++--------------------+------------------------+
+
+ ```
+
+### Question 8). For other numeric types besides lat and lon, what are the min and max values?
+
+ ```
+ +-------------------+---------------+---------------+
+|    Column Name    | Minimum Value | Maximum Value |
++-------------------+---------------+---------------+
+|     rate_code     |       0       |      210      |
+|  passenger_count  |       0       |      255      |
+| trip_time_in_secs |       0       |     10800     |
++-------------------+---------------+---------------+
+ ```
+ 
+ ### Question 9). Create a chart which shows the average number of passengers each hour of the day. (X axis should have 24 hours)
+ ```
+ 
+ ```
+
