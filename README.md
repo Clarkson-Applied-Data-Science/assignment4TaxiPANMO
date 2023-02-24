@@ -86,3 +86,12 @@ Total rows: 14776616
 Geographic range of the data (min longitude, min latitude) - (max longitude, max latitude):
 ((-179.36124, -39.762348), (112.40418, 83.516693))
  ```
+ 
+ ### Question 6). What is the average computed trip distance? (You should use Haversine Distance)
+*Draw a histogram of the trip distances binned anyway you see fit.*
+
+ ```
+The average trip distance is 19.48 km
+
+
+ ```
