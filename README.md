@@ -148,5 +148,5 @@ The average trip distance is 19.48 km
 ### Question 11). Repeat step 9 with the reduced dataset and compare the two charts.
  ```
  ```
- [](https://github.com/Clarkson-Applied-Data-Science/assignment4TaxiPANMO/blob/main/images/3.png)
+ [graph](https://github.com/Clarkson-Applied-Data-Science/assignment4TaxiPANMO/blob/main/images/3.png)
 
