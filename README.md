@@ -134,6 +134,6 @@ The average trip distance is 19.48 km
  
  ### Question 9). Create a chart which shows the average number of passengers each hour of the day. (X axis should have 24 hours)
  ```
- 
  ```
-![alt text](https://github.com/Clarkson-Applied-Data-Science/assignment4TaxiPANMO/blob/main/images/2.png)
+ ![alt text](https://github.com/Clarkson-Applied-Data-Science/assignment4TaxiPANMO/blob/main/images/2.png)
+ 
