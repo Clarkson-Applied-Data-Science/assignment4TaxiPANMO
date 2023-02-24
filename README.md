@@ -1,5 +1,5 @@
 # assignment4TaxiPANMO
- ### Question 1. What datetime range does your data cover?  How many rows are there total?
+ ### Question 1). What datetime range does your data cover?  How many rows are there total?
  ```
  Date range: 2013-01-01 00:00:00 to 2013-01-31 23:59:59
 Total rows: 14776616
@@ -56,7 +56,7 @@ Total rows: 14776616
  ```
 
 ### Question 4). What MySQL data types / len would you need to store each of the fields?
-### int(xx), varchar(xx),date,datetime,bool, decimal(m,d)
+* int(xx), varchar(xx),date,datetime,bool, decimal(m,d)*
 
  ```
  +--------------------+--------------+
@@ -77,4 +77,12 @@ Total rows: 14776616
 | dropoff_longitude  | DECIMAL(9,6) |
 |  dropoff_latitude  | DECIMAL(8,6) |
 +--------------------+--------------+
+ ```
+
+### Question 5). What is the geographic range of your data (min/max - X/Y)?
+*Plot this (approximately on a map)*
+
+ ```
+Geographic range of the data (min longitude, min latitude) - (max longitude, max latitude):
+((-179.36124, -39.762348), (112.40418, 83.516693))
  ```
