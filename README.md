@@ -95,3 +95,27 @@ The average trip distance is 19.48 km
 ```
 ![alt text](https://github.com/Clarkson-Applied-Data-Science/assignment4TaxiPANMO/blob/main/images/1.png)
 
+
+### Question 7). What are the distinct values for each field? (If applicable)
+
+ ```
+ +--------------------+------------------------+
+|       Field        | Sum of Distinct Values |
++--------------------+------------------------+
+|     medallion      |         13426          |
+|    hack_license    |         32224          |
+|     vendor_id      |           2            |
+|     rate_code      |           14           |
+| store_and_fwd_flag |           3            |
+|  pickup_datetime   |        2303465         |
+|  dropoff_datetime  |        2305816         |
+|  passenger_count   |           10           |
+| trip_time_in_secs  |          6594          |
+|   trip_distance    |          4368          |
+|  pickup_longitude  |         40442          |
+|  pickup_latitude   |         64511          |
+| dropoff_longitude  |         56250          |
+|  dropoff_latitude  |         88767          |
++--------------------+------------------------+
+
+ ```
