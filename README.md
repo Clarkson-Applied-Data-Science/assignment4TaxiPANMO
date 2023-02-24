@@ -141,4 +141,5 @@ The average trip distance is 19.48 km
 ### Question 10). Create a new CSV file which has only one out of every thousand rows
  ```
  ```
- [New csv](https://docs.google.com/spreadsheets/d/1LhfgBCtVQ_stkVm1BR9Ic6-rlBiTLPqxsOEkKOfdGO0/edit?usp=sharing)
+ [New csv](https://docs.google.com/spreadsheets/d/1LhfgBCtVQ_stkVm1BR9Ic6-rlBiTLPqxsOEkKOfdGO0/edit?usp=sharing){:target="_blank"}
+
