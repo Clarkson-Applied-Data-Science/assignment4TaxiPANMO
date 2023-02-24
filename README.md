@@ -32,3 +32,25 @@ Total rows: 14776616
 |  dropoff_latitude  |        The latitude coordinate where the passenger(s) were dropped off        |
 +--------------------+-------------------------------------------------------------------------------+
  ```
+
+### Question 3). Give some sample data for each field.
+ ```
+ +--------------------+----------------------------------+
+| Field Name         |           Sample Data            |
++--------------------+----------------------------------+
+| dropoff_datetime   |       2013-01-01 15:18:10        |
+| dropoff_latitude   |            40.751171             |
+| dropoff_longitude  |            -73.989838            |
+| hack_license       | BA96DE419E711691B9445D6A6307C170 |
+| medallion          | 89D227B655E5C82AECF13C3F540D4CF4 |
+| passenger_count    |                4                 |
+| pickup_datetime    |       2013-01-01 15:11:48        |
+| pickup_latitude    |            40.757977             |
+| pickup_longitude   |            -73.978165            |
+| rate_code          |                1                 |
+| store_and_fwd_flag |                N                 |
+| trip_distance      |               1.00               |
+| trip_time_in_secs  |               382                |
+| vendor_id          |               CMT                |
++--------------------+----------------------------------+
+ ```
