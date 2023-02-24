@@ -93,5 +93,6 @@ Geographic range of the data (min longitude, min latitude) - (max longitude, max
  ```
 The average trip distance is 19.48 km
 
+![alt text](C:\Users\DANIEL\Documents\GitHub\assignment4TaxiPANMO\images\1.png)
 
  ```
