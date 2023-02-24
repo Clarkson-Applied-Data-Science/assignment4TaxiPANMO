@@ -119,3 +119,17 @@ The average trip distance is 19.48 km
 +--------------------+------------------------+
 
  ```
+
+### Question 8). For other numeric types besides lat and lon, what are the min and max values?
+
+ ```
+ +-------------------+---------------+---------------+
+|    Column Name    | Minimum Value | Maximum Value |
++-------------------+---------------+---------------+
+|     rate_code     |       0       |      210      |
+|  passenger_count  |       0       |      255      |
+| trip_time_in_secs |       0       |     10800     |
++-------------------+---------------+---------------+
+ ```
+ 
+ 
