@@ -56,7 +56,7 @@ Total rows: 14776616
  ```
 
 ### Question 4). What MySQL data types / len would you need to store each of the fields?
-* int(xx), varchar(xx),date,datetime,bool, decimal(m,d)*
+*int(xx), varchar(xx),date,datetime,bool, decimal(m,d)*
 
  ```
  +--------------------+--------------+
