@@ -136,4 +136,4 @@ The average trip distance is 19.48 km
  ```
  
  ```
-
+![alt text](https://github.com/Clarkson-Applied-Data-Science/assignment4TaxiPANMO/blob/main/images/2.png)
