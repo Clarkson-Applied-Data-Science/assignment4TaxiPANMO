@@ -15,7 +15,7 @@ Total rows: 14776616
  Field Names and Descriptions:
 
 |     Field Name     |                                  Description                                  |
-+--------------------|-------------------------------------------------------------------------------|
+|--------------------|-------------------------------------------------------------------------------|
 |     medallion      |                         An identifier for the taxi cab                        |
 |    hack_license    |                       An identifier for the taxi driver                       |
 |     vendor_id      |             An identifier for the vendor that provided the record             |
