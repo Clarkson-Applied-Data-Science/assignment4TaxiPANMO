@@ -7,8 +7,25 @@ Total rows: 14776616
 
  ### Question 2a). What are the field names?
  ```
- ['medallion', 'hack_license', 'vendor_id', 'rate_code', 'store_and_fwd_flag', 'pickup_datetime', 'dropoff_datetime', 'passenger_count', 'trip_time_in_secs', 'trip_distance', 'pickup_longitude', 'pickup_latitude', 'dropoff_longitude', 'dropoff_latitude']
  ```
+ 
+|     Field Name     |
+|--------------------|
+|     medallion      | 
+|    hack_license    | 
+|     vendor_id      | 
+|     rate_code      | 
+| store_and_fwd_flag | 
+|  pickup_datetime   | 
+|  dropoff_datetime  | 
+|  passenger_count   | 
+| trip_time_in_secs  | 
+|   trip_distance    |
+|  pickup_longitude  | 
+|  pickup_latitude   |  
+| dropoff_longitude  |  
+|  dropoff_latitude  | 
+
  
  ### Question 2b). Give descriptions for each field.
  ```
