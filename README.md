@@ -85,6 +85,8 @@ Total rows: 14776616
  ```
 Geographic range of the data (min longitude, min latitude) - (max longitude, max latitude):
 ((-179.36124, -39.762348), (112.40418, 83.516693))
+
+![alt text](https://github.com/Clarkson-Applied-Data-Science/assignment4TaxiPANMO/blob/main/images/4.png)
  ```
  
  ### Question 6). What is the average computed trip distance? (You should use Haversine Distance)
