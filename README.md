@@ -13,6 +13,7 @@ Total rows: 14776616
  ### Question 2b). Give descriptions for each field.
  ```
  Field Names and Descriptions:
+ ```
 
 |     Field Name     |                                  Description                                  |
 |--------------------|-------------------------------------------------------------------------------|
@@ -31,7 +32,7 @@ Total rows: 14776616
 | dropoff_longitude  |        The longitude coordinate where the passenger(s) were dropped off       |
 |  dropoff_latitude  |        The latitude coordinate where the passenger(s) were dropped off        |
 +--------------------+-------------------------------------------------------------------------------+
- ```
+ 
 
 ### Question 3). Give some sample data for each field.
  ```
