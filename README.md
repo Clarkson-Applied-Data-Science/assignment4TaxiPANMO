@@ -31,7 +31,7 @@ Total rows: 14776616
 |  pickup_latitude   |         The latitude coordinate where the passenger(s) were picked up         |
 | dropoff_longitude  |        The longitude coordinate where the passenger(s) were dropped off       |
 |  dropoff_latitude  |        The latitude coordinate where the passenger(s) were dropped off        |
-+--------------------+-------------------------------------------------------------------------------+
+
  
 
 ### Question 3). Give some sample data for each field.
