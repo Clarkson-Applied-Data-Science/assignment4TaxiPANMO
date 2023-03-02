@@ -53,7 +53,7 @@ Total rows: 14776616
 
 ### Question 3). Give some sample data for each field.
  ```
-```
+ ```
 | Field Name         |           Sample Data            |
 |--------------------|----------------------------------|
 | dropoff_datetime   |       2013-01-01 15:18:10        |
@@ -74,11 +74,11 @@ Total rows: 14776616
 
 ### Question 4). What MySQL data types / len would you need to store each of the fields?
 *int(xx), varchar(xx),date,datetime,bool, decimal(m,d)*
-
  ```
- +--------------------+--------------+
+ ```
+
 |    Column Name     |  Data Type   |
-+--------------------+--------------+
+|--------------------|--------------|
 |     medallion      | VARCHAR(32)  |
 |    hack_license    | VARCHAR(32)  |
 |     vendor_id      |  VARCHAR(3)  |
@@ -93,8 +93,7 @@ Total rows: 14776616
 |  pickup_latitude   | DECIMAL(8,6) |
 | dropoff_longitude  | DECIMAL(9,6) |
 |  dropoff_latitude  | DECIMAL(8,6) |
-+--------------------+--------------+
- ```
+ 
 
 ### Question 5). What is the geographic range of your data (min/max - X/Y)?
 *Plot this (approximately on a map)*
@@ -118,9 +117,10 @@ The average trip distance is 19.48 km
 ### Question 7). What are the distinct values for each field? (If applicable)
 
  ```
- +--------------------+------------------------+
+ ```
+
 |       Field        | Sum of Distinct Values |
-+--------------------+------------------------+
+|--------------------|------------------------|
 |     medallion      |         13426          |
 |    hack_license    |         32224          |
 |     vendor_id      |           2            |
@@ -135,21 +135,21 @@ The average trip distance is 19.48 km
 |  pickup_latitude   |         64511          |
 | dropoff_longitude  |         56250          |
 |  dropoff_latitude  |         88767          |
-+--------------------+------------------------+
 
- ```
+ 
 
 ### Question 8). For other numeric types besides lat and lon, what are the min and max values?
 
  ```
- +-------------------+---------------+---------------+
+ ```
+
 |    Column Name    | Minimum Value | Maximum Value |
-+-------------------+---------------+---------------+
+|-------------------|---------------|---------------|
 |     rate_code     |       0       |      210      |
 |  passenger_count  |       0       |      255      |
 | trip_time_in_secs |       0       |     10800     |
-+-------------------+---------------+---------------+
- ```
+
+ 
  
  ### Question 9). Create a chart which shows the average number of passengers each hour of the day. (X axis should have 24 hours)
  ```
