@@ -36,9 +36,9 @@ Total rows: 14776616
 
 ### Question 3). Give some sample data for each field.
  ```
- +--------------------+----------------------------------+
+```
 | Field Name         |           Sample Data            |
-+--------------------+----------------------------------+
+|--------------------|----------------------------------|
 | dropoff_datetime   |       2013-01-01 15:18:10        |
 | dropoff_latitude   |            40.751171             |
 | dropoff_longitude  |            -73.989838            |
@@ -53,8 +53,7 @@ Total rows: 14776616
 | trip_distance      |               1.00               |
 | trip_time_in_secs  |               382                |
 | vendor_id          |               CMT                |
-+--------------------+----------------------------------+
- ```
+
 
 ### Question 4). What MySQL data types / len would you need to store each of the fields?
 *int(xx), varchar(xx),date,datetime,bool, decimal(m,d)*
