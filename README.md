@@ -13,7 +13,7 @@ Total rows: 14776616
  ### Question 2b). Give descriptions for each field.
  ```
  Field Names and Descriptions:
-+--------------------+-------------------------------------------------------------------------------+
+
 |     Field Name     |                                  Description                                  |
 +--------------------+-------------------------------------------------------------------------------+
 |     medallion      |                         An identifier for the taxi cab                        |
